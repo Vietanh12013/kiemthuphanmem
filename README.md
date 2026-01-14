@@ -2,9 +2,9 @@
 (Software Testing)
 
 ## Thông tin sinh viên
-- **Trường**: Trường Đại học Công nghệ Thông tin
+- **Trường**: Trường Đại học CMC
 - **Khoa**: Khoa Công nghệ Thông tin
-- **Lớp**: CNTT K20A
+- **Lớp**: CNTT 23IT5
 - **Học phần**: Kiểm thử phần mềm
 
 ---
@@ -37,7 +37,6 @@ Sau khi hoàn thành học phần, sinh viên có thể:
 ## Công cụ sử dụng
 - Ngôn ngữ lập trình: Java
 - Framework kiểm thử: JUnit
-- IDE: IntelliJ IDEA / Eclipse
 - Git & GitHub
 
 ---
@@ -61,10 +60,10 @@ Sinh viên cần:
 ---
 
 ## Giảng viên phụ trách
-*(Cập nhật sau)*
+Trương Anh Hoàng
 
 ---
 
 ## Sinh viên thực hiện
-- Họ và tên: *(Cập nhật sau)*
-- MSSV: *(Cập nhật sau)*
+- Họ và tên: Bùi Việt Anh
+- MSSV: BIT230496
