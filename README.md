@@ -33,10 +33,20 @@ Sau khi hoàn thành học phần, sinh viên có thể:
 - Báo cáo lỗi và đánh giá chất lượng phần mềm
 
 ---
+## Mô tả bài toán
+Bài tập 1: Can't Unsee
+- Kết quả bài tập nằm ở tệp cantunsee.jpg
+
+Bài tập 2: JUnit
+Xây dựng chương trình Java phân tích điểm số học sinh thông qua lớp `StudentAnalyzer` với các chức năng:
+- Đếm số học sinh đạt loại **Giỏi**
+- Tính **điểm trung bình hợp lệ** của danh sách điểm
+
+Các điểm không hợp lệ (nhỏ hơn 0 hoặc lớn hơn 10) sẽ bị bỏ qua.
 
 ## Công cụ sử dụng
 - Ngôn ngữ lập trình: Java
-- Framework kiểm thử: JUnit
+- Framework kiểm thử: JUnit , Repo Github
 - Git & GitHub
 
 ---
